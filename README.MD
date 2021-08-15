@@ -1,1 +1,2 @@
-A simple and responsive nav I made to practice with CSS flexbox.
+A simple and responsive nav to practice with CSS flexbox.
+Coding along with Wes Bos.
